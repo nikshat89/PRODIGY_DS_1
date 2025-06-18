@@ -12,7 +12,7 @@ This project visualizes global population data using the **World Bank - Total Po
 
 - Source: [World Bank Open Data](https://data.worldbank.org/indicator/SP.POP.TOTL)
 - Downloaded in CSV format
-- Contains population data for countries from 1960 to 2022
+- Contains population data for countries from 1960 to 2023
 
 ## 🛠️ Tools Used
 
@@ -24,15 +24,10 @@ This project visualizes global population data using the **World Bank - Total Po
 ## 📊 Visualizations
 
 ### 🔹 Bar Chart
-Shows the top 10 most populous countries in 2022.
-
-![Bar Chart](top10_population_chart.png)
-
----
+Shows the top 10 most populous countries in 2023.
 
 ### 🔹 Histogram
-Shows the distribution of all countries' populations in 2022.
+Shows the distribution of all countries' populations in 2023.
 
-![Histogram](population_histogram_2022.png)
 
 
