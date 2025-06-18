@@ -26,7 +26,7 @@ This project visualizes global population data using the **World Bank - Total Po
 ### 🔹 Bar Chart
 Shows the top 10 most populous countries in 2022.
 
-
+![Bar Chart](top10_population_chart.png)
 
 ---
 
