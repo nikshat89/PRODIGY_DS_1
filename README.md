@@ -26,7 +26,7 @@ This project visualizes global population data using the **World Bank - Total Po
 ### 🔹 Bar Chart
 Shows the top 10 most populous countries in 2023.
 
-![Bar Chart](top10_population_chart.png)
+![Bar Chart](top10_population_2023.png)
 
 ### 🔹 Histogram
 Shows the distribution of all countries' populations in 2023.
